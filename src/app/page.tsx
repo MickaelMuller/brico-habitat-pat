@@ -61,9 +61,10 @@ export default function Home() {
                 <span className="text-orange-400">dans l&apos;Yonne</span>
               </h2>
               <p className="text-xl mb-8 text-slate-100">
-                Patrick Potier, spécialisé en plaquisterie, peinture,
-                agencement, électricité et plomberie. Un savoir-faire artisanal
-                au service de vos projets.
+                Patrick Potier, artisan spécialisé plaquiste pouvant aussi vous
+                accompagner sur vos travaux de peinture, agencement, électricité
+                et plomberie. Un savoir-faire artisanal au service de vos
+                projets.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
                 <a
@@ -112,13 +113,13 @@ export default function Home() {
           </div>
 
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
-            {/* Plaquisterie */}
+            {/* Plaquiste */}
             <div className="bg-gray-50 rounded-xl p-8 hover:shadow-lg transition-shadow">
               <div className="bg-slate-100 rounded-full w-16 h-16 flex items-center justify-center mb-6">
                 <span className="text-3xl">🏗️</span>
               </div>
               <h3 className="text-xl font-bold text-gray-900 mb-4">
-                Plaquisterie
+                Plaquiste
               </h3>
               <p className="text-gray-600 mb-4">
                 Spécialité principale : pose et finition de cloisons, doublages,
@@ -235,8 +236,8 @@ export default function Home() {
                 Expertise
               </h3>
               <p className="text-gray-600">
-                Spécialisé en plaquisterie avec des compétences multiples pour
-                tous vos besoins
+                Artisan plaquiste avec des compétences multiples pour tous vos
+                besoins
               </p>
             </div>
 

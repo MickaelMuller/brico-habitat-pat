@@ -14,8 +14,10 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: "Brico Habitat Pat - Artisan du Bâtiment en Bourgogne",
-  description: "Brico Habitat Pat : artisan spécialisé en plaquisterie, peinture, agencement, électricité et plomberie. Intervention en Bourgogne. Devis gratuit au 06 98 41 57 13",
-  keywords: "Brico Habitat Pat, plaquiste, peinture, agencement, électricité, plomberie, artisan, Bourgogne, travaux, rénovation",
+  description:
+    "Brico Habitat Pat : artisan spécialisé plaquiste, peinture, agencement, électricité et plomberie. Intervention en Bourgogne. Devis gratuit au 06 98 41 57 13",
+  keywords:
+    "Brico Habitat Pat, plaquiste, peinture, agencement, électricité, plomberie, artisan, Bourgogne, travaux, rénovation",
 };
 
 export default function RootLayout({
